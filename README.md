@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://mcoton.github.io/product_preview_Chanel/]
 
 ## My process
 Understandably could have started designing this for mobile and worked toward desktop.
